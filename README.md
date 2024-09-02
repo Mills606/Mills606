@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - gh repo clone Mills606/Mills606
+gh repo clone Mills606/Mills606
 
 <!---
 Mills606/Mills606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
